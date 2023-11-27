@@ -14,3 +14,5 @@ def eb(csv_file):
 
 # Test
 eb('Begriffe_Informatik_Amamsiugwudi_3BHWII.csv')
+
+# Kommentar
